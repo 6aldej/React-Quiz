@@ -5,10 +5,7 @@
  
 ## Прохождение теста
   **Страница с тестами:**
-  ![Image alt](https://github.com/6aldej/ImagesForProjects/blob/master/react-quiz/QuizList.png)
-  ***
-  **Страница с тестами (мобильная версия):**  
-  ![Image alt](https://github.com/6aldej/ImagesForProjects/blob/master/react-quiz/QuizListMobile.png)
+  ![Image alt](https://github.com/6aldej/ImagesForProjects/blob/master/react-quiz/QuizList2.png)
   ***
   **Прохождение теста:**  
   ![Image alt](https://github.com/6aldej/ImagesForProjects/blob/master/react-quiz/Quiz.png)
