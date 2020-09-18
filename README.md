@@ -20,9 +20,7 @@
   Для создания своего теста необходимо зарегистрироваться и войти в аккаунт.
   ![Image alt](https://github.com/6aldej/ImagesForProjects/blob/master/react-quiz/Auth.png)
   ***
-  Выйти из аккаунта можно по ссылке в навигационной панели, которая будет доступна после авторизации.  
-  ![Image alt](https://github.com/6aldej/ImagesForProjects/blob/master/react-quiz/NavBar.png)  
-  ![Image alt](https://github.com/6aldej/ImagesForProjects/blob/master/react-quiz/NavBarAuth.png)
+  Выйти из аккаунта можно по ссылке в навигационной панели, которая будет доступна после авторизации. 
  
 ## Создание теста
   Для создания теста перейди по ссылке **Создать тест**, которая будет доступна после Вашей авторизации в системе.
