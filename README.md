@@ -11,11 +11,11 @@
    ***
   ❓**Страница с вопросом:**  
   
-  ![Image alt](https://github.com/6aldej/ImagesForProjects/blob/master/react-quiz/Quiz.png)
+  ![Image alt](https://github.com/6aldej/ImagesForProjects/blob/master/react-quiz/Quiz2.png)
   
   🏆**Результаты пройденного теста:**  
   
-  ![Image alt](https://github.com/6aldej/ImagesForProjects/blob/master/react-quiz/FinishQuiz.png)
+  ![Image alt](https://github.com/6aldej/ImagesForProjects/blob/master/react-quiz/FinishQuiz2.png)
   ***
 ## Авторизация🔑
   Для создания своего теста необходимо зарегистрироваться и войти в аккаунт.  
