@@ -1,0 +1,42 @@
+.Auth {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    flex-grow: 1;
+    background: rgb(18,17,73);
+    background: linear-gradient(90deg, rgba(18,17,73,1) 0%, rgba(72,140,239,1) 50%, rgba(84,234,237,1) 100%);
+    text-align: center;
+}
+
+.Auth > div {
+    width: 50%;
+    min-width: 250px;
+    padding: 0 20px;
+}
+
+.Auth h1 {
+    color: #fff;
+    text-align: center;
+}
+
+.AuthForm {
+    background: #eee;
+    box-shadow: 15px 15px 15px rgba(0, 0, 0, .5);
+    padding: 15px;
+    border-radius: 30px;
+}
+
+.loginImg {
+    width: 130px;
+}
+
+Button {
+    min-width: 70px;
+}
+
+.ButFlex {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

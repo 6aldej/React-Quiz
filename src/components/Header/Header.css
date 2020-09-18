@@ -1,0 +1,69 @@
+@font-face {
+	font-family: 'Bangers'; 
+	src: url(../../decoration/fonts/Bangers-Regular.ttf); 
+}
+
+.Header {
+    display: flex;
+    justify-content: flex-end;
+    height: 90px;
+    margin-bottom: 5px;
+    font-family: 'Bangers'; 
+    background-color: black;
+}
+
+.head {
+    display: flex;
+    padding: 10px;
+}
+
+.head p {
+    color: #fff;
+    font-size: 50px;
+    padding: 8px;
+    margin: 0;
+}
+
+.logo {
+    padding-left: 10px;
+    padding-right: 70px;
+    width: 50px;
+}
+
+.github {
+    width: 65px;
+    margin: 5px 10px 15px 0px;
+    filter: saturate(300%);
+}
+
+.github:hover {
+    filter: saturate(800%);
+}
+
+@media (max-width: 475px) {
+
+    .Header {
+        height: 75px;
+    }
+
+    .head p {
+        font-size: 40px;
+        padding-right: 30px;
+    }
+
+    .logo {
+        width: 40px;
+        height: 40px;
+        padding: 0;
+        padding-top: 10px;
+        padding-right: 10px;
+    }
+
+    .github {
+        width: 40px;
+        padding: 0;
+        padding-top: 10px;
+    }
+
+}
+
