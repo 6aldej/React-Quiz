@@ -25,7 +25,7 @@
   📄**Страница с тестами:**
   
   ![Image alt](https://github.com/6aldej/ImagesForProjects/blob/master/react-quiz/QuizList2.png)
-   ***
+   
   ❓**Страница с вопросом:**  
   
   ![Image alt](https://github.com/6aldej/ImagesForProjects/blob/master/react-quiz/Quiz2.png)
